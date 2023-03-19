@@ -19,7 +19,7 @@ git clone this repository
 $ npm install
 
 ## Next: run the mySql database and CREATE DATABASE stereo_media
-### After installin MySql on pc, you can do this with 2 methods:
+### After installing MySql on pc, you can do this with 2 methods:
 ### 1. run XAMPP control panel and run mySql server with the admin (phpAdmin) active. you can create the database stereo_media through the admin
 ### 2. run mySql on commandline and login with username and password then run CREATE DATABASE stereo_media
 

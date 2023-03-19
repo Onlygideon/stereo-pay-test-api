@@ -3,7 +3,7 @@
 
 ## Summary
 ### This Rest API helps to manage media objects. This API contain endpoints with the following fuctionalities:
-### 1. Upload Media (audio or songs), save objects in mySql db and store the uploaded media using the file system.
+### 1. Upload Media (audio/songs or images), save objects in mySql db and store the uploaded media using the file system.
 ### 2. Paginate and Fetch all media objects
 ### 3. Fetch a single media object using id
 ### 4. Search media objects by title and description

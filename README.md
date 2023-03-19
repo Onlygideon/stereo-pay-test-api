@@ -10,9 +10,6 @@
 ### 5. Fetch and Update the status field of the media object using the id
 ### 6. Soft delete the media object using the id
 
-## Postman Documentation
-https://documenter.getpostman.com/view/15715947/2s93JzMLpG
-
 # Guidelines on how to build and run this REST API
 
 ## first step
@@ -35,5 +32,7 @@ $ npm install
 ## Next: Running the app
 ### $ npm run start:dev
 
+# Postman Documentation
+https://documenter.getpostman.com/view/15715947/2s93JzMLpG
 
 

@@ -24,7 +24,7 @@ $ npm install
 ### 2. run mySql on commandline and login with username and password then run CREATE DATABASE stereo_media
 
 ## Next: run migration script
-### When mySql database (stereo_media) is runnning, run $ npm migration:run
+### When mySql database (stereo_media) is runnning, run npm migration:run
 
 ## Next: Create upload directory for storing uploaded medias (songs or images)
 ### create a folder in the src directory called uploads then create another folder inside the uploads folder called media
